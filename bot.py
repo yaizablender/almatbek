@@ -1,7 +1,7 @@
 from langchain_community.llms import Ollama
 import telebot
 
-API_TOKEN  = '7887777951:AAF_Samfd1QdyAzdsV55gpAfby1N1wctT7s'
+API_TOKEN  = '5335177104:AAG9S7dtrlz_lXRUVt9R6yLib2lzP-PiYZQ'
 
 bot = telebot.TeleBot(token=API_TOKEN )
 
